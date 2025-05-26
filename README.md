@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Passionate software developer since i was 14yo<br><br>I'm currently learning React<br>Fun fact: i really like competitive games.</p>
+<p align="left">Passionate software developer since i was 14yo<br><br>I'm currently learning React<br>i really like competitive games and aphex twin.</p>
 
 ###
 
