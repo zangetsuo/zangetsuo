@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Passionate software developer since i was 14yo<br><br>Since i'm an intern im learning anything that can improve my skills, currenty i'm learning Node.js<br>i really like competitive games and aphex twin.</p>
+<p align="left">Passionate software developer since i was 14yo.<br><br>Since i'm an intern im learning anything that can improve my skills, currenty i'm learning Node.js!<br>i really like competitive games and aphex twin.</p>
 
 ###
 
