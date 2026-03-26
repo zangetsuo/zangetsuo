@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Passionate software developer since i was 14yo<br><br>I'm currently learning React<br>i really like competitive games and aphex twin.</p>
+<p align="left">Passionate software developer since i was 14yo<br><br>Since i'm an intern im learning anything that can improve my skills, currenty i'm learning Node.js<br>i really like competitive games and aphex twin.</p>
 
 ###
 
@@ -35,15 +35,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zangetsuo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=zangetsuo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
 
 <h2 align="left">contact me here:</h2>
 
